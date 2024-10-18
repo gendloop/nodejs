@@ -1,0 +1,5 @@
+
+PROJECT_NAME=nodejs
+nodejs_VERSION_MAJOR=10
+nodejs_VERSION_MINOR=24
+nodejs_VERSION_PATCH=1
